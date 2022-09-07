@@ -30,3 +30,7 @@
   <div align="left">
 <img style="float: left; width: 49%" src="https://github-readme-stats.vercel.app/api?username=superarv&count_private=true&show_icons=true&theme=dracula" />
 <img style="float: right; width: 49%" src="https://github-readme-streak-stats.herokuapp.com?user=superarv&theme=dracula" />
+
+   <div align="center">
+   <h1> A bit about me </h1>
+    <h3> Hi, I'm Ath, an aspiring developer currently in high school. I plan on majoring in computer science, doing backend development after college. It would be an honor to have you come along for the journey, (If i ever remember to post on github that is).
