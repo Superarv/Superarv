@@ -1,11 +1,9 @@
 <div align="center">
 
-<h1> Welcome, mortal </h1>
-<h4> Welcome to the great world of Superarv, where clumps of CSS frolic around in the cloud, and hordes of java fight their eternal war with the python forces </h4>
+<h1> Hello, </h1>
 
-<h4> If you came here for code, you shall look no further than the repository, if you have come here expecting a quest, then I shall have to turn you away, for here, there is nothing but the eternal suffering of failling code, crashing programs, and nodeJs. </h4>
 
-<h3> Anyhow, below are the skills I have spent so many hours of suffering to learn, appreciate them </h3>
+<h3> Below are the skills I have spent so many hours of suffering to learn, appreciate them </h3>
 <div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="200">
